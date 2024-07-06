@@ -1,3 +1,4 @@
+#I've given the code a little makeover. If you want flawless results, take your time with it. Enjoy!
 import cv2
 
 import numpy as np
