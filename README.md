@@ -1,4 +1,4 @@
-# Image Denoising
+# Image Denoising App
 
 This project is a simple GUI-based application for image denoising using various techniques. The application is built using Python and Tkinter for the GUI, with OpenCV, NumPy, and other libraries for image processing.
 
